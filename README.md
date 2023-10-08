@@ -13,6 +13,8 @@ You can also PM me on reddit under /u/mikemountain if you need help but don't th
 
 ## Features (v0.1.0)
 
+Added different Panel types.
+
 ### GAME ROTATION
 Hey, neat-o! You can rotate through multiple games now if you want to! Will still need some finessing, but definitely an improvement.
 
